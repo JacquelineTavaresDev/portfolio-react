@@ -1,0 +1,101 @@
+.contactSection {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contactSection h2 {
+  font-size: 2.5rem;
+  color: #00adb5;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.contactSection > p {
+  color: #aaa;
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+.form {
+  background-color: #1e1e1e;
+  padding: 2.5rem;
+  border-radius: 8px;
+  border: 1px solid #333;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.group label {
+  color: #e0e0e0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-align: left;
+}
+
+.group input,
+.group textarea {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  padding: 0.8rem;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 1rem;
+  outline: none;
+  width: 100%; 
+  transition: border-color 0.2s ease;
+}
+
+.group input:focus,
+.group textarea:focus {
+  border-color: #00adb5;
+}
+
+.btnSubmit {
+  background-color: #00adb5;
+  color: #fff;
+  border: none;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%; 
+  transition: background-color 0.2s ease;
+  margin-top: 0.5rem;
+}
+
+.btnSubmit:hover {
+  background-color: #008c95;
+}
+
+.socials {
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  width: 100%;
+}
+
+.socials a {
+  color: #00adb5;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.socials a:hover {
+  color: #008c95;
+  text-decoration: underline;
+}
