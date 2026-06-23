@@ -2,18 +2,11 @@
 
 Este é o meu portfólio pessoal e profissional, desenvolvido com **React.js** e **Vite**. O objetivo deste projeto é centralizar minhas informações, apresentar minhas habilidades técnicas no ecossistema JavaScript e expor os principais projetos práticos que venho desenvolvendo.
 
-
-## 🔗 Versão Online (Deploy)
-
-O projeto está publicado e pode ser acessado diretamente pelo link abaixo:
-👉 **[Acesse meu Portfólio Online](https://seu-usuario.github.io/seu-repositorio/)** *(Substitua por seu link real do Vercel/Netlify/GitHub Pages)*
-
-
 ## 🛠️ Como Rodar o Projeto Localmente
 
 Siga os passos abaixo para clonar o repositório e executar o projeto em sua máquina:
 
-### Pre requisitos
+### Pré-requisitos 
 Certifique-se de ter o Node.js (https://nodejs.org/) instalado em seu computador.
 
 ### 1. Clonar o Repositório
@@ -54,9 +47,8 @@ A versão estável mais recente da aplicação está publicada e disponível par
 
 ### Como acessar o projeto no ar:
 1. Clique no link oficial gerado pela plataforma de hospedagem:
-   👉 **[Acesse o Portfólio Online Aqui](https://portfolio-react-seu-link.vercel.app)** *(Substitua este link pelo seu link real da Vercel)*
+   https://portfolio-react-os5y.vercel.app/ 
 2. Navegue pelas páginas utilizando o menu superior (Início, Sobre Mim, Habilidades, Projetos e Contato) para testar a responsividade e o funcionamento das rotas em tempo real.
 
-
-## Autor
+## Autora
 Francisca Jacqueline Ribeiro Tavares
