@@ -32,7 +32,7 @@ npm run dev
 
 Após o comando rodar, abra o navegador e acesse: http://localhost:5173/
 
-📂 Projetos Apresentados:
+### 📂 Projetos Apresentados:
 Navegando pelo portfólio, você encontrará em destaque os seguintes projetos desenvolvidos por mim:
 
 Lista de Tarefas (Next.js): Aplicação de gerenciamento de tarefas desenvolvida com Next.js, explorando os conceitos de roteamento dinâmico, renderização do lado do servidor (SSR) e persistência de dados de forma otimizada.
